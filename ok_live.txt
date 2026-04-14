@@ -1,6 +1,3 @@
-✈️TG频道@stymei1,#genre#
-更新时间2026.4.10,https://k0u3cydy43y9zw2408x8760xfx5xx9z.djvod.ndcimgs.com/upic/2026/03/07/21/BMjAyNjAzMDcyMTIyMzlfNDI0MDI5NTBfMTg5Nzk0ODUxNjg5XzFfMw==_b_Bc33d39ac3524c256f9ddabce4588794b.mp4
-
 🔥[rtmp协议]央卫视直播,#genre#
 cctv1,rtmp://39.108.129.193:1935/cctv1/1sao
 cctv2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2
